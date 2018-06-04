@@ -1,2 +1,2 @@
 # Math-Game
-Math calculation game designed using HTML, CSS and JavaScript. 
+Math calculation quiz designed using HTML, CSS and JavaScript. 
